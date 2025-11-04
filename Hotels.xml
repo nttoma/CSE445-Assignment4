@@ -25,7 +25,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Hyatt Regency</Name>
     <Phone>602-252-1234</Phone>
     <Address Number="122">
@@ -85,7 +85,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.4">
     <Name>Best Western Plus</Name>
     <Phone>480-784-2233</Phone>
     <Address Number="670">
