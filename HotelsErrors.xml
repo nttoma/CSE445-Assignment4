@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel> <!-- Error 1: wrong root element name -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address> <!-- Error 2: missing required attribute "Number" -->
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Hilton Garden Inn</Name>
+    <!-- Error 3: missing Phone element -->
+    <Address Number="4000">
+      <Street>S Arizona Ave</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85248</Zip>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Marriott Tempe</Name>
+    <Phone>480-967-2300</Phone>
+    <Address Number="2000">
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <!-- Error 4: missing closing tag for Address -->
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <!-- Error 5: two Name elements -->
+    <Name>Residence Inn Mesa</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>480-610-0100</Phone>
+    <Address Number="941">
+      <Street>W Grove Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+</Hotel>
