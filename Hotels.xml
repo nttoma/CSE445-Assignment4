@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address Number="11">
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Hilton Garden Inn</Name>
+    <Phone>602-243-2412</Phone>
+    <Address Number="4000">
+      <Street>S Arizona Ave</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85248</Zip>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hyatt Regency</Name>
+    <Phone>602-252-1234</Phone>
+    <Address Number="122">
+      <Street>N 2nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Marriott Tempe</Name>
+    <Phone>480-967-2300</Phone>
+    <Address Number="2000">
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Courtyard Scottsdale</Name>
+    <Phone>480-948-1700</Phone>
+    <Address Number="3311">
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+      <NearestAirport>Scottsdale Airport</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Holiday Inn Express</Name>
+    <Phone>480-968-3441</Phone>
+    <Address Number="1031">
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.8">
+    <Name>Renaissance Phoenix</Name>
+    <Phone>602-333-0000</Phone>
+    <Address Number="100">
+      <Street>N 1st St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Best Western Plus</Name>
+    <Phone>480-784-2233</Phone>
+    <Address Number="670">
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.7">
+    <Name>Comfort Inn Chandler</Name>
+    <Phone>480-812-9900</Phone>
+    <Address Number="255">
+      <Street>N Kyrene Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Residence Inn Mesa</Name>
+    <Phone>480-610-0100</Phone>
+    <Address Number="941">
+      <Street>W Grove Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+      <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+</Hotels>
